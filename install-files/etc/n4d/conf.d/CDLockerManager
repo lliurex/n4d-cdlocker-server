@@ -1,7 +1,0 @@
-[SETUP]
-type=python
-path=CDLockerManager.py
-class=CDLockerManager
-[METHODS]
-is_enabled=anonymous
-set_lock_status=sudo,admins,teachers

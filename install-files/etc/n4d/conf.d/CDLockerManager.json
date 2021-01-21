@@ -1,0 +1,21 @@
+{
+    "SETUP": {
+        "type": "python",
+        "path": "CDLockerManager.py",
+        "class": "CDLockerManager"
+    },
+    "METHODS": {
+       "is_enabled": {
+            "allowed_groups": [
+                "anonymous"
+            ]
+        },
+        "set_lock_status": {
+            "allowed_groups": [
+                "sudo",
+                "admins",
+		"teachers"
+            ]
+        }
+   }
+}
