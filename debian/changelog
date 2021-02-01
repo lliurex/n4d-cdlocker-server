@@ -1,0 +1,29 @@
+n4d-cdlocker-server (0.1.13) bionic; urgency=medium
+
+  * Adding sudo group
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 14 Feb 2019 10:15:31 +0100
+
+n4d-cdlocker-server (0.1.12) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 24 Oct 2018 12:54:08 +0200
+
+n4d-cdlocker-server (0.1.2) xenial; urgency=medium
+
+  * Remove warning in startup method
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Wed, 02 May 2018 13:09:39 +0200
+
+n4d-cdlocker-server (0.1.1) xenial; urgency=high
+
+  * Updated package relationships
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 02 Oct 2017 13:24:47 +0200
+
+n4d-cdlocker-server (0.1) xenial; urgency=high
+
+  * Initial release.
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 20 Sep 2017 12:32:17 +0200
