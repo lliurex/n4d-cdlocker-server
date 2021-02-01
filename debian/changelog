@@ -1,3 +1,10 @@
+n4d-cdlocker-server (0.2.13) focal; urgency=medium
+
+  * Migrated to new n4d
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 01 Feb 2021 08:45:14 +0100
+
 n4d-cdlocker-server (0.1.13) bionic; urgency=medium
 
   * Adding sudo group
