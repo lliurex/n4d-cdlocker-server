@@ -19,7 +19,7 @@ class CDLockerManager:
 	def startup(self,options):
 		
 		#Old n4d: self.internal_variable=copy.deepcopy(objects["VariablesManager"].get_variable("CDLOCKER"))
-		self.internal_variable=self.core.get_variable("CDLOCKER")["return"]
+		self.internal_variable=self.core.get_variable("CDLOCKER").get('return',None)
 		if self.internal_variable==None:
 			try:
 				self.initialize_variable()
