@@ -1,3 +1,9 @@
+n4d-cdlocker-server (0.2.14) focal; urgency=medium
+
+  * Improved code
+
+ -- Juan Ramon Pelegrina <juapesai@hotmatil.com>  Wed, 03 Feb 2021 08:23:04 +0100
+
 n4d-cdlocker-server (0.2.13) focal; urgency=medium
 
   * Migrated to new n4d
