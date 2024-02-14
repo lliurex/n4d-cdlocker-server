@@ -1,0 +1,17 @@
+Source: n4d-cdlocker-server
+Section: admin
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: Equipo LliureX <lliurex@gva.es>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+
+Package: n4d-cdlocker-server
+Architecture: all
+Pre-Depends: n4d (>=0.112)
+Recommends: lliurex-cdlocker (>=0.2)
+Depends: ${misc:Depends}
+Description: LliureX CDLocker server plugins 
+ Plugins supporting lliurex cdlocker server functionality
+
+
